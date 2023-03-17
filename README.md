@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sctrl31
 - 👀 I’m interested in many program languages
-- 🌱 I’m currently learning pascal
+- 🌱 I’m currently learning programming languages
 - 📫 How to reach me @smlfrnndo
 
 <!---
